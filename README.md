@@ -4,6 +4,7 @@ Description:
 The online educational platform is a application that offers various educational courses on online.
 
 Features:
+
 1.Registration:
  Here the customer has to give  some necessary information and after that  can buy courses and can pay them through online or can pay the dews later.
  
